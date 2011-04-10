@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beforeRunningCommand</key>
+	<string>nop</string>
+	<key>command</key>
+	<string>Used as a menu seperator</string>
+	<key>draggedFileExtensions</key>
+	<array/>
+	<key>input</key>
+	<string>selection</string>
+	<key>name</key>
+	<string>Pseudo Elements &amp; Classes</string>
+	<key>output</key>
+	<string>insertAsSnippet</string>
+	<key>uuid</key>
+	<string>DC5D36B0-4600-4911-8EA3-EDCC672BDA93</string>
+</dict>
+</plist>

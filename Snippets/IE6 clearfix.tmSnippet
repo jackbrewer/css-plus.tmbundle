@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${TM_SELECTED_TEXT:.clearfix}:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}$0</string>
+	<key>name</key>
+	<string>IE6 clearfix</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>tabTrigger</key>
+	<string>clf</string>
+	<key>uuid</key>
+	<string>593F2690-9E3A-4951-A3F1-C9F435F86899</string>
+</dict>
+</plist>

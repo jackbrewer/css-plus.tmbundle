@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beforeRunningCommand</key>
+	<string>nop</string>
+	<key>bundleUUID</key>
+	<string>D657DE35-0D74-4728-9879-52CFFFBE4F04</string>
+	<key>command</key>
+	<string>#!/usr/bin/php
+&lt;?php
+
+/*
+ * Converts any colour on the current line. Cycles between Hex, RGB and RGBa.
+ *
+ * Needs a lot of improvement - multiple colour detection and regex work.
+ *
+ */
+
+$stdin = file_get_contents("php://stdin");
+
+define('TM_EXIT_SHOW_TOOLTIP', 206);
+
+function showTooltip($msg){
+  echo $msg;
+  exit(TM_EXIT_SHOW_TOOLTIP);
+}
+
+// check for valid HEX colour
+if(preg_match("/^(?'prefix'.*?)#(?'value'[a-fA-F0-9]{6}|[a-fA-F0-9]{3})\b(?'suffix'.*)$i/",$stdin, $hex)) {
+  // convert to rgb
+  $rgb = array();
+  if(strlen($hex['value']) == 3) {
+    $rgb['r'] = hexdec(str_repeat(substr($hex['value'], 0, 1), 2));
+    $rgb['g'] = hexdec(str_repeat(substr($hex['value'], 1, 1), 2));
+    $rgb['b'] = hexdec(str_repeat(substr($hex['value'], 2, 1), 2));
+  }
+  elseif(strlen($hex['value']) == 6) {
+    $rgb['r'] = hexdec(substr($hex['value'], 0, 2));
+    $rgb['g'] = hexdec(substr($hex['value'], 2, 2));
+    $rgb['b'] = hexdec(substr($hex['value'], 4, 2));
+  }
+  $rgb = implode(", ",$rgb);
+  echo $hex['prefix']."rgb($rgb)".$hex['suffix'];  
+}
+// Check for valid RGB colour
+elseif(preg_match("/^(?'prefix'.*?)rgb\(\s*(?'r'\d{1,3})\s*,\s*(?'g'\d{1,3})\s*,\s*(?'b'\d{1,3})\s*\)(?'suffix'.*)$/i",$stdin, $rgba)) {
+  // convert to rgba
+
+  echo $rgba['prefix']."rgba(".$rgba['r'].", ".$rgba['g'].", ".$rgba['b'].", 1)".$rgba['suffix'];
+}
+// Check for valid RGBA colour
+elseif(preg_match("/^(?'prefix'.*?)rgba\(\s*(?'r'\d{1,3})\s*,\s*(?'g'\d{1,3})\s*,\s*(?'b'\d{1,3})\s*,\s*(?'a'[0-9]+(?:\.[0-9]*)?)\s*\)(?'suffix'.*)$/i",$stdin, $rgb)) {
+  // convert to HEX
+  $hex = "#";
+  foreach (array($rgb['r'], $rgb['g'], $rgb['b']) as $v) {
+    $v = dechex($v&lt;0?0:($v&gt;255?255:$v));
+    $hex .= (strlen($v) &lt; 2?'0':'').$v;
+  }
+  $hex = strtoupper($hex);
+  echo $rgb['prefix'].$hex.$rgb['suffix'];
+}
+
+else {
+  showTooltip("No valid colour found in your selection");
+}
+?&gt;</string>
+	<key>fallbackInput</key>
+	<string>line</string>
+	<key>input</key>
+	<string>selection</string>
+	<key>keyEquivalent</key>
+	<string>^@c</string>
+	<key>name</key>
+	<string>Convert color to rgb</string>
+	<key>output</key>
+	<string>replaceSelectedText</string>
+	<key>scope</key>
+	<string>meta.property-list.css</string>
+	<key>uuid</key>
+	<string>2DED523E-0D44-4E58-B754-144DAE556C5E</string>
+</dict>
+</plist>
