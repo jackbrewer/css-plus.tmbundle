@@ -1,4 +1,4 @@
-TO INSTALL
+#Installation
 
 cd ~/Library/"Application Support"/TextMate/Bundles/
 
