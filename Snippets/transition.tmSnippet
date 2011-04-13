@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>transform: scale(${1:45}${2:px}, ${3:45}${4:px});$0</string>
+	<string>transition: ${1:all} ${2:0.5}s ${3:ease};$0</string>
 	<key>name</key>
-	<string>transform: scale();</string>
+	<string>transition</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>
-	<string>tfs</string>
+	<string>tr</string>
 	<key>uuid</key>
-	<string>1886040E-A397-48E4-8C59-D4F633873843</string>
+	<string>B7B3E212-C958-4930-B784-27368DC5849A</string>
 </dict>
 </plist>
