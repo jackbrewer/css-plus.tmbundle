@@ -11,7 +11,7 @@
 	<key>input</key>
 	<string>selection</string>
 	<key>name</key>
-	<string>IE6</string>
+	<string>Values</string>
 	<key>output</key>
 	<string>insertAsSnippet</string>
 	<key>uuid</key>

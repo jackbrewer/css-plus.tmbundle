@@ -5,16 +5,19 @@
 	<key>beforeRunningCommand</key>
 	<string>nop</string>
 	<key>command</key>
-	<string>Used as a menu seperator</string>
+	<string>echo "$TM_DROPPED_FILE"</string>
 	<key>draggedFileExtensions</key>
-	<array/>
+	<array>
+		<string>png</string>
+		<string>jpg</string>
+	</array>
 	<key>input</key>
 	<string>selection</string>
 	<key>name</key>
-	<string>Fonts</string>
+	<string>Progress Placeholder</string>
 	<key>output</key>
 	<string>insertAsSnippet</string>
 	<key>uuid</key>
-	<string>A2E5D71B-7145-4345-857E-01CFEF683803</string>
+	<string>53977ACC-B796-4A6A-8DB8-A79B84D64F07</string>
 </dict>
 </plist>

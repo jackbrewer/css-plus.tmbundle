@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>background-clip: $1;$0</string>
+	<string>border-collapse: separate;$0</string>
 	<key>name</key>
-	<string>background-clip</string>
+	<string>border-collapse: separate</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>
-	<string>bgcl</string>
+	<string>bc</string>
 	<key>uuid</key>
-	<string>61A86F16-21F3-40CE-8EB6-2D2C4CA37B26</string>
+	<string>B8D0948E-8F2A-4EF6-AEBE-98CCAC9EB771</string>
 </dict>
 </plist>

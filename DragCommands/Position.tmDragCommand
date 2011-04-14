@@ -11,7 +11,7 @@
 	<key>input</key>
 	<string>selection</string>
 	<key>name</key>
-	<string>Position</string>
+	<string>Declarations</string>
 	<key>output</key>
 	<string>insertAsSnippet</string>
 	<key>uuid</key>
