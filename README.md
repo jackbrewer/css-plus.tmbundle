@@ -6,7 +6,7 @@ In Terminal, navigate to the TextMate bundles folder.
 
 If the directory doesn't exist, create it.
 
-Clone the bundle - once you have it, reload your bundles in TextMate and it will appear in the Bundles list.
+Clone the bundle - once you have it, reload your bundles in TextMate and it will appear in the bundles list.
 
 	git clone git://github.com/jackbb/CSS-JackBB.tmbundle.git "CSS-JackBB.tmbundle"
 
