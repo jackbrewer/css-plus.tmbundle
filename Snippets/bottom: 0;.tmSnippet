@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>bottom: ${1:0};$0</string>
+	<string>bottom: ${1:10}${2:px};$0</string>
 	<key>name</key>
-	<string>bottom: 0;</string>
+	<string>bottom</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>

@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>border-color: ${1:#${2:777}};$0</string>
 	<key>name</key>
-	<string>border-color: hex</string>
+	<string>border-color</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>

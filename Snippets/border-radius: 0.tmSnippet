@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>border-radius: ${1:0};$0</string>
+	<string>border-radius: 0;$0</string>
 	<key>name</key>
 	<string>border-radius: 0</string>
 	<key>scope</key>

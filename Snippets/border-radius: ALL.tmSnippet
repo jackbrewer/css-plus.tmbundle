@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>border-radius: ${1:3}px;$0</string>
+	<string>border-radius: ${1:3}${2:px};$0</string>
 	<key>name</key>
-	<string>border-radius: ALL</string>
+	<string>border-radius: single</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>
