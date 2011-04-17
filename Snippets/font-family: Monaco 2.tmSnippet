@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>bottom: ${1:10}${2:px};$0</string>
+	<string>font-family: Monaco, Consolas, "Lucida Console", monospace;$0</string>
 	<key>name</key>
-	<string>right</string>
+	<string>font-family: Monaco</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>
-	<string>r</string>
+	<string>ff</string>
 	<key>uuid</key>
-	<string>2C6A3BD8-9D1A-45C0-B56D-0FD9048A002C</string>
+	<string>B66F8776-1157-4BDA-80D4-2581C8C68DE4</string>
 </dict>
 </plist>

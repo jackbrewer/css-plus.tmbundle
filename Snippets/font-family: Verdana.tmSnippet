@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>font-family: Verdana, Arial, Helvetica, sans-serif;$0</string>
+	<string>font-family: Verdana, Geneva, Tahoma, sans-serif;$0</string>
 	<key>name</key>
 	<string>font-family: Verdana</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>
-	<string>ffv</string>
+	<string>ff</string>
 	<key>uuid</key>
 	<string>7470B134-EB3C-4BF8-B226-563318006868</string>
 </dict>

@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>bottom: ${1:10}${2:px};$0</string>
+	<string>outline-width: ${1:1}${2:px};$0</string>
 	<key>name</key>
-	<string>right</string>
+	<string>outline-width</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>
-	<string>r</string>
+	<string>olw</string>
 	<key>uuid</key>
-	<string>2C6A3BD8-9D1A-45C0-B56D-0FD9048A002C</string>
+	<string>8503BBA7-C0B1-445D-AD2C-68C78681500A</string>
 </dict>
 </plist>

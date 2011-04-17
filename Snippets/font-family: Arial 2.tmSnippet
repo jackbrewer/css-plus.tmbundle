@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>bottom: ${1:10}${2:px};$0</string>
+	<string>font-family: Arial, Helvetica, sans-serif;$0</string>
 	<key>name</key>
-	<string>right</string>
+	<string>font-family: Arial</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>
-	<string>r</string>
+	<string>ffa</string>
 	<key>uuid</key>
-	<string>2C6A3BD8-9D1A-45C0-B56D-0FD9048A002C</string>
+	<string>B5D572B9-D4AB-4D67-8C13-39EED50FB930</string>
 </dict>
 </plist>

@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>font-family: "Lucida Grande", Verdana, Arial, Helvetica, sans-serif;$0</string>
+	<string>font-family: "Lucida Sans", "Lucida Grande", "Lucida Sans Unicode", sans-serif;$0</string>
 	<key>name</key>
-	<string>font-family: "Lucida Grande"</string>
+	<string>font-family: Lucida Sans</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>
-	<string>fflg</string>
+	<string>ff</string>
 	<key>uuid</key>
 	<string>03611DCE-E721-4896-AF31-BBA0E7ABBF68</string>
 </dict>
