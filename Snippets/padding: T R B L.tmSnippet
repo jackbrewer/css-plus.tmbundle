@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>direction: ltr;$0</string>
+	<string>padding: ${1:10}${2:px} ${3:10}${4:px} ${5:10}${6:px} ${7:10}${8:px};$0</string>
 	<key>name</key>
-	<string>direction: ltr</string>
+	<string>padding: T R B L</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>
-	<string>di</string>
+	<string>p</string>
 	<key>uuid</key>
-	<string>974714B4-6EFA-46EC-803D-A6ABA78348C7</string>
+	<string>D979BE29-724C-463C-9EBF-BD65E40F78FC</string>
 </dict>
 </plist>
