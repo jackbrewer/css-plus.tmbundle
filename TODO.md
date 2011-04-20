@@ -1,6 +1,12 @@
 ** Ideas
 Set em vs px in TextMate variables
 
+** To Complete
+
+Transitions
+Transforms
+Box Model
+
 ** To Research
 azimuth
 border-image-width
@@ -42,3 +48,7 @@ speak-punctuation
 speech-rate
 stress
 table-layout
+text-underline-position
+voice-family
+volume
+writing-mode

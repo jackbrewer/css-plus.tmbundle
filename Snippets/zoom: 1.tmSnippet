@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>zoom: 1;$0</string>
+	<string>zoom: ${1:1};$0</string>
 	<key>name</key>
-	<string>zoom: 1</string>
+	<string>zoom</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>
