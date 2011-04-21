@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>transition: ${1:all} ${2:1}s ${3:ease};$0</string>
+	<string>transition: ${1:all} ${2:1}s ${3:1}s ${4:ease};$0</string>
 	<key>name</key>
-	<string>transition</string>
+	<string>transition delay</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>
 	<string>t</string>
 	<key>uuid</key>
-	<string>B7B3E212-C958-4930-B784-27368DC5849A</string>
+	<string>252F0E3F-94A1-41A2-9A62-4AE0B9E5EF51</string>
 </dict>
 </plist>
