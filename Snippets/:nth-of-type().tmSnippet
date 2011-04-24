@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>::after$0</string>
+	<string>:nth-of-type(${1:odd})$0</string>
 	<key>name</key>
-	<string>::after</string>
+	<string>:nth-of-type()</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>
-	<string>:a</string>
+	<string>:not</string>
 	<key>uuid</key>
-	<string>E1FDF2FC-C6F0-4CDC-8BE1-01C57F4CF1BF</string>
+	<string>4F2E6BED-4A12-4C70-A26C-BCAF44CA1120</string>
 </dict>
 </plist>

@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>::after$0</string>
+	<string>::first-line$0</string>
 	<key>name</key>
-	<string>::after</string>
+	<string>::first-line</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>
-	<string>:a</string>
+	<string>::fl</string>
 	<key>uuid</key>
-	<string>E1FDF2FC-C6F0-4CDC-8BE1-01C57F4CF1BF</string>
+	<string>670FDB38-662A-4FC6-9096-B10C0B58F357</string>
 </dict>
 </plist>

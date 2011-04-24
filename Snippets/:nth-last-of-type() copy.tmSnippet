@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>:link$0</string>
+	<string>:nth-last-of-type(${1:odd})$0</string>
 	<key>name</key>
-	<string>:link</string>
+	<string>:nth-last-of-type() copy</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>
-	<string>:</string>
+	<string>:nlot</string>
 	<key>uuid</key>
-	<string>DECA3ECE-2E61-47BB-AA2D-D6CCD4762C0B</string>
+	<string>56C16251-87F5-4C9D-BC5D-536A3EB5B258</string>
 </dict>
 </plist>

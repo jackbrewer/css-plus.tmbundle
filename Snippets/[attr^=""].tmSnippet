@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>::after$0</string>
+	<string>[${1:href}^="${2:http://}"]$0</string>
 	<key>name</key>
-	<string>::after</string>
+	<string>[attr^=""]</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>
-	<string>:a</string>
+	<string>[</string>
 	<key>uuid</key>
-	<string>E1FDF2FC-C6F0-4CDC-8BE1-01C57F4CF1BF</string>
+	<string>C4DBE04A-17DC-441B-B000-F4F16F9DF19B</string>
 </dict>
 </plist>

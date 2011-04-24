@@ -11,10 +11,10 @@
 	<key>input</key>
 	<string>selection</string>
 	<key>name</key>
-	<string>Pseudo Elements</string>
+	<string>Pseudo Classes</string>
 	<key>output</key>
 	<string>insertAsSnippet</string>
 	<key>uuid</key>
-	<string>DC5D36B0-4600-4911-8EA3-EDCC672BDA93</string>
+	<string>46B90321-1C9C-4E6B-9ED9-8D1A51FC0916</string>
 </dict>
 </plist>

@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>::after$0</string>
+	<string>[${1:src}$="${2:.jpg}"]$0</string>
 	<key>name</key>
-	<string>::after</string>
+	<string>[attr$=""]</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>
-	<string>:a</string>
+	<string>[</string>
 	<key>uuid</key>
-	<string>E1FDF2FC-C6F0-4CDC-8BE1-01C57F4CF1BF</string>
+	<string>B474ADE0-D5C3-4E9C-BEDF-4323AB1C2DDF</string>
 </dict>
 </plist>

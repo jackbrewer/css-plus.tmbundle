@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>:visited$0</string>
+	<string>[$1|="$2"]$0</string>
 	<key>name</key>
-	<string>:visited</string>
+	<string>[attr|=""]</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>
-	<string>:</string>
+	<string>[</string>
 	<key>uuid</key>
-	<string>C3C409A5-2C04-426C-BC97-D0DDCAAB38A6</string>
+	<string>33F69C7A-5220-4CE0-BF75-A03C3F949E5E</string>
 </dict>
 </plist>

@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>:hover$0</string>
+	<string>:nth-last-child(${1:odd})$0</string>
 	<key>name</key>
-	<string>:hover</string>
+	<string>:nth-last-child()</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>
-	<string>:</string>
+	<string>:nlc</string>
 	<key>uuid</key>
-	<string>BFA32139-858B-4289-AE32-37257C588D8B</string>
+	<string>5F942823-E596-4087-8EFB-EB7BE8967998</string>
 </dict>
 </plist>
