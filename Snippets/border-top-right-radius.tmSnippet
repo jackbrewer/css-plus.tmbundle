@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>clip: rect(${1:10}px, ${2:10}px, ${3:10}px, ${4:10}px)</string>
+	<string>border-top-right-radius: ${1:3}px;$0</string>
 	<key>name</key>
-	<string>clip: rect()</string>
+	<string>border-top-right-radius</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>
-	<string>cl</string>
+	<string>btrr</string>
 	<key>uuid</key>
-	<string>62B41E15-4181-488D-B0DC-8FC33D2FBD51</string>
+	<string>9EE82C40-2ADC-4F58-BF02-A91E767D8431</string>
 </dict>
 </plist>

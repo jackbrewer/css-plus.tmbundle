@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>:nth-last-of-type(${1:odd})$0</string>
 	<key>name</key>
-	<string>:nth-last-of-type() copy</string>
+	<string>:nth-last-of-type()</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>

@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>clip: rect(${1:10}px, ${2:10}px, ${3:10}px, ${4:10}px)</string>
+	<string>text-rendering: geometricPrecision;$0</string>
 	<key>name</key>
-	<string>clip: rect()</string>
+	<string>text-rendering: geometricPrecision</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>
-	<string>cl</string>
+	<string>tr</string>
 	<key>uuid</key>
-	<string>62B41E15-4181-488D-B0DC-8FC33D2FBD51</string>
+	<string>F61A55BE-7189-45EC-9808-71C5F7AF3BDD</string>
 </dict>
 </plist>

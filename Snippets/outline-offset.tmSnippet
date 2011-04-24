@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>clip: rect(${1:10}px, ${2:10}px, ${3:10}px, ${4:10}px)</string>
+	<string>outline-offset: ${1:3}${2:px};$0</string>
 	<key>name</key>
-	<string>clip: rect()</string>
+	<string>outline-offset</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>
-	<string>cl</string>
+	<string>olo</string>
 	<key>uuid</key>
-	<string>62B41E15-4181-488D-B0DC-8FC33D2FBD51</string>
+	<string>7C66313F-639B-442D-A1B1-8764D58A2E52</string>
 </dict>
 </plist>

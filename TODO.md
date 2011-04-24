@@ -13,6 +13,7 @@
 * border-image-outset
 * border-image-repeat
 * box-decoration-break
+* clip-path
 * content (inc. quotes, counters, (multiple)attr)
 * counter-increment
 * counter-reset
@@ -22,7 +23,11 @@
 * display: card, stack, tab
 * display - template layout http://www.w3.org/TR/2009/WD-css3-layout-20090402/
 * font-size-adjust
-* font-size-stretch
+* font-stretch
+* image-rendering
+* marker-offset
+* marks
+* mask
 * overflow-x / overflow-y - http://www.w3schools.com/css3/css3_pr_overflow-x.asp
 * page
 * page-break-after
@@ -34,6 +39,7 @@
 * pitch
 * pitch-range
 * play-during
+* pointer-events (incomplete)
 * quotes
 * richness
 * ruby-align
@@ -47,7 +53,7 @@
 * speak-punctuation
 * speech-rate
 * stress
-* table-layout
+* table-layout (incomplete)
 * text-underline-position
 * voice-family
 * volume

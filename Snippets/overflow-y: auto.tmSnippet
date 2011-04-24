@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>clip: rect(${1:10}px, ${2:10}px, ${3:10}px, ${4:10}px)</string>
+	<string>overflow-y: auto;$0</string>
 	<key>name</key>
-	<string>clip: rect()</string>
+	<string>overflow-y: auto</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>
-	<string>cl</string>
+	<string>oy</string>
 	<key>uuid</key>
-	<string>62B41E15-4181-488D-B0DC-8FC33D2FBD51</string>
+	<string>9E4851B4-1688-43B4-B775-4F1CDEFAE7CA</string>
 </dict>
 </plist>

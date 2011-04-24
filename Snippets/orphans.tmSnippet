@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>orphans: 2;</string>
+	<string>orphans: ${1:2};$0</string>
 	<key>name</key>
 	<string>orphans</string>
 	<key>scope</key>
