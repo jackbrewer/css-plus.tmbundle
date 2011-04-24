@@ -72,7 +72,7 @@ else {
 	<key>keyEquivalent</key>
 	<string>^@c</string>
 	<key>name</key>
-	<string>Convert color to rgb</string>
+	<string>Cycle colour modes</string>
 	<key>output</key>
 	<string>replaceSelectedText</string>
 	<key>scope</key>

@@ -5,11 +5,11 @@
 	<key>content</key>
 	<string>background-clip: padding-box;$0</string>
 	<key>name</key>
-	<string>background-clip: padding-box;</string>
+	<string>background-clip: padding-box</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>
-	<string>bgclp</string>
+	<string>bgcl</string>
 	<key>uuid</key>
 	<string>44946585-752C-4BE6-A85A-9343EFBA575A</string>
 </dict>

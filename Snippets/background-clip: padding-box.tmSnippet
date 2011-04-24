@@ -2,17 +2,15 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>bundleUUID</key>
-	<string>D56BE59A-57C6-4AC2-A1AF-70BD5DA88E04</string>
 	<key>content</key>
-	<string>background-attachment: fixed;$0</string>
+	<string>background-clip: padding-box;$0</string>
 	<key>name</key>
-	<string>background-attachment: fixed</string>
+	<string>background-clip: padding-box</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>
-	<string>bgaf</string>
+	<string>bgclp</string>
 	<key>uuid</key>
-	<string>81B2B67C-2F91-41A9-9C32-E181202AACE7</string>
+	<string>F26B0041-A89D-4E4C-BC02-F19D1486CEBA</string>
 </dict>
 </plist>

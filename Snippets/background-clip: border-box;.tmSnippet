@@ -5,11 +5,11 @@
 	<key>content</key>
 	<string>background-clip: border-box;$0</string>
 	<key>name</key>
-	<string>background-clip: border-box;</string>
+	<string>background-clip: border-box</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>
-	<string>bgclb</string>
+	<string>bgcl</string>
 	<key>uuid</key>
 	<string>F0820B86-8534-4F85-9BC3-45840C35FFDD</string>
 </dict>
