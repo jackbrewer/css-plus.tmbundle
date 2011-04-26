@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleUUID</key>
+	<string>D56BE59A-57C6-4AC2-A1AF-70BD5DA88E04</string>
+	<key>content</key>
+	<string>animation-name: ${1:name};
+animation-duration: ${2:1}s;
+${3:animation-delay: ${4:1}s;
+}${5:animation-direction: ${6:alternate};
+}${7:animation-iteration-count: ${8:infinite};
+}${9:animation-timing-function: ${10:ease};$0}</string>
+	<key>name</key>
+	<string>animation expanded</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>tabTrigger</key>
+	<string>a</string>
+	<key>uuid</key>
+	<string>E5846C21-4C6D-4AA0-AA69-C031C3E84079</string>
+</dict>
+</plist>

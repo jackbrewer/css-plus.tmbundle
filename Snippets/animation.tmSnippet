@@ -2,15 +2,17 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>bundleUUID</key>
+	<string>D56BE59A-57C6-4AC2-A1AF-70BD5DA88E04</string>
 	<key>content</key>
-	<string>transform: matrix(${1:0}, ${2:0}, ${3:0}, ${4:0}, ${5:0}, ${6:0});$0</string>
+	<string>animation: ${1:name} ${2:1}s${3: ${4:1}s}${5: ${6:1}}${7: alternate} ${8:ease};$0</string>
 	<key>name</key>
-	<string>transform: matrix()</string>
+	<string>animation</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>
-	<string>tfm</string>
+	<string>a</string>
 	<key>uuid</key>
-	<string>DCFE6C42-52EB-4CBA-A2EF-0219AD18AAFA</string>
+	<string>8A85AA1C-5F6C-437F-A591-A91DC6EA6398</string>
 </dict>
 </plist>

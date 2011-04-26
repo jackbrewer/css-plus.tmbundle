@@ -6,6 +6,10 @@
 * 3D Transforms
 * Box Model
 
+## Sources
+* https://developer.mozilla.org/en/CSS_Reference
+* http://developer.apple.com/library/safari/#documentation/AppleApplications/Reference/SafariCSSRef/Articles/StandardCSSProperties.html
+
 ## To Research
 * azimuth
 * border-image-width

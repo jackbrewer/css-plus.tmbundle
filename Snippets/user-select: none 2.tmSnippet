@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>transform: matrix(${1:0}, ${2:0}, ${3:0}, ${4:0}, ${5:0}, ${6:0});$0</string>
+	<string>user-select: none;$0</string>
 	<key>name</key>
-	<string>transform: matrix()</string>
+	<string>user-select: none</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>
-	<string>tfm</string>
+	<string>us</string>
 	<key>uuid</key>
-	<string>DCFE6C42-52EB-4CBA-A2EF-0219AD18AAFA</string>
+	<string>DBA9D4B4-8200-4351-B7E6-5421A9CA9820</string>
 </dict>
 </plist>
