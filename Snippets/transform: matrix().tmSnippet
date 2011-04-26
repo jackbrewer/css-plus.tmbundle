@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>transform: rotate(${1:45}${2:deg});$0</string>
+	<string>transform: matrix(${1:0}, ${2:0}, ${3:0}, ${4:0}, ${5:0}, ${6:0});$0</string>
 	<key>name</key>
-	<string>transform: rotate()</string>
+	<string>transform: matrix()</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>
-	<string>tfr</string>
+	<string>tfm</string>
 	<key>uuid</key>
-	<string>9FBB6FBE-B0BE-42DA-9CEE-1CA4CEE8D0E2</string>
+	<string>A1E1E4C1-9BB9-43C5-A9D0-0F2C0AED94DA</string>
 </dict>
 </plist>

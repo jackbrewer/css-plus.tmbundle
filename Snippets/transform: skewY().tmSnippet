@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>transform: rotate(${1:45}${2:deg});$0</string>
+	<string>transform: skewY(${1:30}deg);$0</string>
 	<key>name</key>
-	<string>transform: rotate()</string>
+	<string>transform: skewY()</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>
-	<string>tfr</string>
+	<string>tfsy</string>
 	<key>uuid</key>
-	<string>9FBB6FBE-B0BE-42DA-9CEE-1CA4CEE8D0E2</string>
+	<string>6AAA6A5B-53DE-48DE-A6A7-3C94EDFF7280</string>
 </dict>
 </plist>

@@ -3,8 +3,7 @@
 
 ## To Complete
 
-* Transitions
-* Transforms
+* 3D Transforms
 * Box Model
 
 ## To Research
