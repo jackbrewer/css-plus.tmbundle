@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleUUID</key>
+	<string>D56BE59A-57C6-4AC2-A1AF-70BD5DA88E04</string>
+	<key>content</key>
+	<string>@font-face {
+    font-family: '${1:font-name}';
+    src: url('${2:font-file}.eot');
+    src: url('$2.eot?#iefix') format('embedded-opentype'),
+         url('$2.woff') format('woff'),
+         url('$2.ttf') format('truetype'),
+         url('$2.svg#$1') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}$0</string>
+	<key>name</key>
+	<string>@font-face</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>tabTrigger</key>
+	<string>@</string>
+	<key>uuid</key>
+	<string>37C73913-529D-494C-B0C9-1EA671C48CB8</string>
+</dict>
+</plist>

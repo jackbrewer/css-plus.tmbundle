@@ -165,6 +165,8 @@
 			<string>754063E5-5B48-43C0-9524-F32AB1E3CEE3</string>
 			<string>370B8D36-48A8-42E0-B726-96AAB3C33637</string>
 			<string>CEC7A60C-5BED-4BE5-AB9E-F639AA48EAD0</string>
+			<string>3F3D0294-3E6C-49E0-ADB0-C449C9BAB141</string>
+			<string>799012EB-C17C-4D29-8A24-32AA4C59D999</string>
 		</array>
 		<key>items</key>
 		<array>
@@ -816,6 +818,8 @@
 					<string>------------------------------------</string>
 					<string>BD94293B-727E-4189-9C0C-C9AFE25AA7EA</string>
 					<string>A3F56B4A-25D9-4215-9277-3BA511186045</string>
+					<string>------------------------------------</string>
+					<string>37C73913-529D-494C-B0C9-1EA671C48CB8</string>
 				</array>
 				<key>name</key>
 				<string>Fonts</string>
@@ -1263,7 +1267,10 @@
 		<string>B474ADE0-D5C3-4E9C-BEDF-4323AB1C2DDF</string>
 		<string>207D040F-C6F8-4491-94E9-B057692BA020</string>
 		<string>FC1C18F4-F434-475D-A6F9-43CFFEE41882</string>
+		<string>37C73913-529D-494C-B0C9-1EA671C48CB8</string>
+		<string>799012EB-C17C-4D29-8A24-32AA4C59D999</string>
 		<string>4A026D25-9C95-46A5-AFD2-319C82ACEFC7</string>
+		<string>3F3D0294-3E6C-49E0-ADB0-C449C9BAB141</string>
 		<string>8A85AA1C-5F6C-437F-A591-A91DC6EA6398</string>
 		<string>E5846C21-4C6D-4AA0-AA69-C031C3E84079</string>
 		<string>152BB962-BAAD-40FD-9A61-6561152E09CC</string>
