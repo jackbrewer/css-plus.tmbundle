@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleUUID</key>
+	<string>D56BE59A-57C6-4AC2-A1AF-70BD5DA88E04</string>
+	<key>content</key>
+	<string>background-image: url("$1");
+background-position: ${2:${3:0}${4:px}} ${5:${6:0}${7:px}};
+background-repeat: ${8:no-repeat};$0</string>
+	<key>name</key>
+	<string>background expanded</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>tabTrigger</key>
+	<string>bg</string>
+	<key>uuid</key>
+	<string>3EB9606F-AD63-43A9-8331-B4BF8C09F86F</string>
+</dict>
+</plist>

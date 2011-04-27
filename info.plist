@@ -2,6 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>deleted</key>
+	<array>
+		<string>255E6C08-A0B4-495F-AA89-2C7B417F5146</string>
+	</array>
 	<key>mainMenu</key>
 	<dict>
 		<key>excludedItems</key>
@@ -1300,7 +1304,7 @@
 		<string>E7DBE1B7-E411-4A8B-B24E-301565A9F3E1</string>
 		<string>DE874DAC-9D95-4CB0-BDA2-F6699C84BCD0</string>
 		<string>B20F888F-5E09-4A76-8B01-6A8F878E7F30</string>
-		<string>255E6C08-A0B4-495F-AA89-2C7B417F5146</string>
+		<string>3EB9606F-AD63-43A9-8331-B4BF8C09F86F</string>
 		<string>469065D3-1C36-4578-AA07-20795299F6EB</string>
 		<string>81B2B67C-2F91-41A9-9C32-E181202AACE7</string>
 		<string>FA293549-3A4F-44DE-A120-9755EAFAAB0E</string>
