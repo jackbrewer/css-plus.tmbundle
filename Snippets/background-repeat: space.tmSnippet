@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>background-repeat: space:$0</string>
+	<string>background-repeat: space;$0</string>
 	<key>name</key>
 	<string>background-repeat: space</string>
 	<key>scope</key>
