@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>border-left: ${1:1}px ${2:solid} ${3:#${4:777}};$0</string>
+	<string>box-sizing: border-box;$0</string>
 	<key>name</key>
-	<string>border-left</string>
+	<string>box-sizing: border-box</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>
-	<string>bl</string>
+	<string>bsbb</string>
 	<key>uuid</key>
-	<string>C49C85BA-79BF-4E63-9D71-7A13D1815FA4</string>
+	<string>EDD66282-33DC-49F5-857E-0C0D7C9A93F0</string>
 </dict>
 </plist>
