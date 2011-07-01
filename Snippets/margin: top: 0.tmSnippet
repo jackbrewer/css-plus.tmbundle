@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>margin-top: 0;$0</string>
 	<key>name</key>
-	<string>margin: top: 0</string>
+	<string>margin-top: 0</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>
