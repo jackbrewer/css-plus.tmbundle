@@ -5,7 +5,7 @@
 	<key>bundleUUID</key>
 	<string>D56BE59A-57C6-4AC2-A1AF-70BD5DA88E04</string>
 	<key>content</key>
-	<string>background-color: #${1:CCC};$0</string>
+	<string>background-color: ${1:#${2:CCC}};$0</string>
 	<key>name</key>
 	<string>background-color: hex</string>
 	<key>scope</key>
