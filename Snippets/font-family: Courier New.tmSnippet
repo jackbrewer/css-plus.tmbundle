@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;$0</string>
+	<string>font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;$0</string>
 	<key>name</key>
-	<string>font-family: Arial</string>
+	<string>font-family: Courier New</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>
-	<string>ff</string>
+	<string>ffc</string>
 	<key>uuid</key>
-	<string>BCF2D06C-912A-4186-8F2E-A17F996C9957</string>
+	<string>08E30F71-B11E-4433-9034-9DB7B1272DE1</string>
 </dict>
 </plist>

@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;$0</string>
+	<string>font-family: "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;$0</string>
 	<key>name</key>
-	<string>font-family: Arial</string>
+	<string>font-family: Century Gothic</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>
-	<string>ff</string>
+	<string>ffc</string>
 	<key>uuid</key>
-	<string>BCF2D06C-912A-4186-8F2E-A17F996C9957</string>
+	<string>283AAFA2-6F3D-4229-BC5C-E1E0D11E6772</string>
 </dict>
 </plist>
